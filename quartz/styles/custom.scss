@@ -1,3 +1,291 @@
+// ==========================================================================
+// 0. DEPENDENCIES & VARIABlES
+// ==========================================================================
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+
+// ==========================================================================
+// 1. GLOBAL CORE & FRAME LAYOUT OVERRIDES
+// ==========================================================================
+.page[data-frame="default"] {
+  #quartz-body {
+    grid-gap: 2.5rem;
+    
+    // Core content center frame: Loosens layout margins for focus reading
+    .center {
+      max-width: 720px;
+      line-height: 1.8;
+      font-size: 1.05rem;
+      width: 100%;
+      box-sizing: border-box;
+      position: relative;
+      
+      // Layer isolation guard: Prevents overflowing slider elements from 
+      // bleeding or stacking over the left and right sidebars.
+      z-index: 1; 
+    }
+  }
+}
+
+
+// ==========================================================================
+// 2. COMPONENT META & IDENTITY TYPOGRAPHY
+// ==========================================================================
+// Bold structural list header labels on specialized views
+text-accent {
+  font-weight: 700;
+  color: var(--secondary);
+}
+
+// Note.com Signature Author Meta Line Layout Profile
+.note-author-line {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.5rem 0 1rem 0;
+  padding: 0.25rem 0;
+
+  // Custom Avatar: Formats source images into clean, circular icons
+  .note-avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 1px solid var(--lightgray);
+  }
+
+  // Text stack block containing author names and document states
+  .note-author-meta {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3;
+
+    .note-author-name {
+      font-weight: 600;
+      font-size: 0.95rem;
+      color: var(--dark);
+    }
+
+    .note-publish-date {
+      font-size: 0.8rem;
+      color: var(--gray);
+    }
+  }
+}
+
+
+// ==========================================================================
+// 3. NAVIGATIONAL DIRECTORY VIEWS (FOLDERS & CATALOGS)
+// ==========================================================================
+// Normalizes folder catalog lists into balanced vertical navigation hubs
+.folder-outer {
+  list-style: none;
+  padding-left: 0;
+  
+  li {
+    border-bottom: 1px solid var(--lightgray);
+    padding: 1rem 0;
+    
+    a {
+      font-size: 1.2rem;
+      font-weight: 600;
+      text-decoration: none;
+      
+      &:hover {
+        color: var(--tertiary);
+      }
+    }
+  }
+}
+
+
+// ==========================================================================
+// 4. TAXONOMY PAGES & COMPONENT INLINE TAG WRAPPING
+// ==========================================================================
+// Global article sections: Fixes breaking/overflowing meta tags
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 2rem; // Breathing space separating sequentially listed blocks
+
+  // Forces list layout tags to wrap to new lines smoothly
+  ul.tags {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important; 
+    justify-content: flex-start !important; // Absolute left alignment alignment
+    gap: 0.5rem;
+    padding-left: 0;
+    margin: 0.8rem 0 0 0;
+    list-style: none;
+    width: 100%;
+
+    li {
+      margin: 0;
+      display: flex;
+    }
+
+    // Pill badge skin treatment reminiscent of Note.com tag elements
+    .tag-link {
+      background-color: var(--highlight);
+      padding: 0.2rem 0.6rem;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      text-decoration: none;
+      color: var(--secondary);
+      border: 1px solid var(--lightgray);
+      
+      &:hover {
+        background-color: var(--lightgray);
+      }
+    }
+  }
+}
+
+
+// ==========================================================================
+// 5. PREMIUM NOTE.COM HORIZONTAL SLIDER COMPONENT
+// ==========================================================================
+
+// Global Guardrail: Hard drops broken or uncompiled 404 entries out of the layout loop
+.recent-li:has(a[href*="404"]),
+.recent-li:has(a[href="./404"]) {
+  display: none !important;
+}
+
+// Master component shell block container
+.recent-notes {
+  margin: 2.5rem 0;
+  width: 100% !important; // Hard anchors container sizing inside layout center track bounds
+  max-width: 100% !important;
+  box-sizing: border-box;
+  clear: both;
+
+  h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    border-bottom: 2px solid var(--lightgray);
+    padding-bottom: 0.6rem;
+    margin-bottom: 1.2rem;
+    color: var(--dark);
+  }
+}
+
+// Horizontal scroll track structure
+ul.recent-ul {
+  display: flex !important;
+  flex-direction: row !important;
+  overflow-x: auto !important; // Activates localized horizontal gestures and tracking
+  overflow-y: hidden !important;
+  gap: 1.2rem !important; // Tightly balanced node margins preventing cross-column breaks
+  padding: 0.5rem 0.25rem 1.5rem 0.25rem !important;
+  margin: 0 !important;
+  list-style: none !important;
+  scroll-snap-type: x mandatory; // Native responsive interface tracking snap fluid motion
+  scrollbar-width: thin; 
+  scrollbar-color: var(--gray) transparent;
+  width: 100% !important;
+  box-sizing: border-box;
+
+  // Modern scrollbar styling track engines
+  &::-webkit-scrollbar {
+    height: 6px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: var(--lightgray);
+    border-radius: 10px;
+    &:hover { background-color: var(--gray); }
+  }
+}
+
+// Individual layout card element rendering
+li.recent-li {
+  flex: 0 0 280px !important; // Fixed dimensions engineered specifically for 3-column views
+  min-width: 280px !important;
+  max-width: 280px !important;
+  scroll-snap-align: start;
+  background: var(--lightgray);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.15rem !important;
+  margin: 0 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease;
+  display: flex !important;
+  flex-direction: column !important;
+  box-sizing: border-box;
+
+  // Premium lift interactive feedback on card focus hover transitions
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+    background: var(--light);
+    
+    .meta time {
+      background: var(--highlight) !important;
+    }
+  }
+
+  .section {
+    margin: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    justify-content: transform;
+    align-items: flex-start !important;
+  }
+
+  // Inner Card Heading: Clamps overlong system text to exactly 3 lines max
+  .desc h3 {
+    margin: 0 0 0.5rem 0 !important;
+    
+    a {
+      font-size: 1rem !important;
+      line-height: 1.4 !important;
+      font-weight: 600 !important;
+      color: var(--dark) !important;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-decoration: none !important;
+    }
+  }
+
+  // High-Contrast Isolated Date Element
+  .meta {
+    margin: 0 0 1rem 0 !important;
+    order: -1; // Visually elevates dates to sit elegantly above the main title
+    width: 100%;
+    
+    time {
+      font-size: 0.75rem !important;
+      font-weight: 700 !important;
+      color: var(--dark) !important; // Deep tint variant correction for legibility
+      background: var(--border); // Balanced backfill container badge frame
+      padding: 0.2rem 0.5rem !important;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+      display: inline-block;
+      transition: background 0.2s ease;
+    }
+  }
+
+  // Base card metadata taxonomy tracking shelf
+  ul.tags {
+    margin-top: auto !important; // Forces items down to snap to the floor layout baseline
+    padding-top: 0.75rem !important;
+    border-top: 1px dashed var(--border);
+    gap: 0.35rem !important;
+    max-height: 70px;
+    overflow: hidden;
+    width: 100%;
+    
+    .tag-link {
+      font-size: 0.75rem !important;
+      padding: 0.15rem 0.5rem !important;
+    }
+  }
+}

@@ -176,7 +176,7 @@ plugins:
       position: beforeBody
       priority: 20
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
@@ -218,7 +218,20 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: "@quartz-community/recent-notes"
-    enabled: false
+    enabled: true
+    options:
+      title: "📋 LATEST HIGH-YIELD SYSTEM RELEASES"
+      limit: 5
+      linkToMore: "magazines/"
+      showTags: true
+      hideTagPages: true     # <-- Automatically filters out technical tag indexes!
+      hideFolderPages: true  # <-- Automatically filters out directory layout loops!
+    layout:
+      position: beforeBody
+      priority: 40
+      # Display this ONLY on your root index/homepage
+      display:
+        - index
   - source: "@quartz-community/spacer"
     enabled: true
     options: {}
@@ -240,7 +253,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
