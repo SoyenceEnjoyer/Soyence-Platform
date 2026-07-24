@@ -1,5 +1,5 @@
 // ==========================================================================
-// 0. DEPENDENCIES & VARIABlES
+// 0. DEPENDENCIES & VARIABLES
 // ==========================================================================
 @use "./variables.scss" as *;
 
@@ -95,6 +95,17 @@ text-accent {
         color: var(--tertiary);
       }
     }
+  }
+}
+
+// CHRONOLOGICAL INVERSION: Forces standard folder view article structures 
+// to stack oldest-first (Directive 01 -> 04) instead of newest-first.
+.page-listing {
+  ul.section-ul {
+    display: flex !important;
+    flex-direction: column-reverse !important; // Flips visual layout rendering
+    padding-left: 0 !important;
+    list-style: none !important;
   }
 }
 
