@@ -227,7 +227,7 @@ Our entire technocratic grid relies on absolute, frictionless interdependence. W
   100% External Dependency ──> Grants ──> Total Behavioral Control to Central State
 
  THE LAW OF REDUNDANCY:
-  Local Autonomy + Hard Assets ──> Yields ──> Systemic Shock Resistance ($S_{shock}$)
+  Local Autonomy + Hard Assets ──> Yields ──> Systemic Shock Resistance
 
 ```
 
@@ -264,7 +264,7 @@ To ensure your individual metrics remain 110% compliant with Central Command:
 
 ### 📊 Mandatory Compliance Action:
 
-To prevent your brain from engaging in further unsanctioned presuppositional analysis, subscribe immediately to our official English channels. Elevate your compliance baseline today! 🧪🥼📈🤖
+To prevent your brain from engaging in further unsanctioned presuppositional analysis, subscribe immediately to our official channels. Elevate your compliance baseline today! 🧪🥼📈🤖
 
 * 🐦 **X (Twitter):** [Official Broadcast Stream](https://x.com/SoyenceEnjoyer)*
 * 📺 **YouTube:** [SoyenceEnjoyer Channel](https://www.youtube.com/@SoyenceEnjoyer)*
