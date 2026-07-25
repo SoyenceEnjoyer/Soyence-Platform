@@ -248,10 +248,56 @@ Non-compliant citizens claim that corporate degradation is an "accidental myster
 
 > _"The monistic, unitary view of the universe will survive... **Our scientific knowledge now permits us to assert definitely that there is no break in the continuity of phenomena.**"_
 
+> _"Science can concern itself with education not merely in regard to the scientific content of formal education... but by **considering education itself as a subject for scientific treatment, as a function of human social existence.**"_
+
+> _"First, an increased emphasis on the **evolutionary or change-facilitating function of education** as against its conservative or change-resisting function."_
+
+> _"Secondly, and intimately connected with the first point, **increased concern with the future, and with the possibility of approximation to ideal but scientific standards**; and obversely a decreased concern with the past and with the imposition of ideal but non-scientific (philosophical or religious) standards derived from the past."_
+
+> _"Thirdly, a decreased stress on the rigid normative function of education, which aims at imposing, as early as possible in life, certain orthodox patterns of thought, morality, and behaviour; and conversely **an increased stress on its liberating function, through the encouragement of the scientific spirit...**"_
+
+> _"We are now entering on a further phase, in which **a highly integrated and self-conscious society is the aim, and in which therefore mass education must not only attain a much higher level, but the educational system must itself be fully unified and deliberately integrated as closely as possible with the life of society.**"_
+
+> _"Our education must become more closely and more consciously related to the needs and possibilities of our country at this particular time and in relation to the rest of the world. **It must give up the pretence of being based on absolute or universal cultural values, and must abandon the false and inadequate utilitarianism...**"_
+
+> _"Internationally... **it is largely through education that we can expect to nourish the tender plant of super-national European patriotism.**"_
+
+> _"Among the most important of these will be **the establishment of an international staff college to train administrators, both general and with specialist qualifications, for international work...**"_
+
 ### 5. Lily E. Kay – *The Molecular Vision of Life: Caltech and the Rockefeller Foundation* (1993)
 * **The Metric:** Archival records from the Rockefeller Foundation and Caltech prove early molecular biology research was funded with an explicit engineering goal: social and biological control.
 * **The Reality:** Early life sciences were explicitly designed as a technological framework to reduce human life down to controllable, re-engineerable biological inputs.
-> **[QUOTE PLACEHOLDER: Insert key quotes from Kay (1993) regarding elite foundation funding for molecular biology as a mechanism of social control]**
+> _"In its later technocratic forms, **social control would play a critical role in the conception and design of the molecular biology program during the 1930s.**"_
+
+> _"Developed in the ideologically charged context of the debate between capitalism and socialism, **Ross's vision of social control was an argument for a new liberalism that accepted the inevitability of class conflict and the social inequality of capitalism.**"_
+
+> _"To maintain itself, **society had to modify individual feelings, ideas, and behavior to conform to social interests...**"_
+
+> _"The founding of the Carnegie Corporation in 1911, the Rockefeller Foundation and the Bureau of Social Hygiene in 1913, and the Laura Spelman Rockefeller Memorial in 1918 **expressed Americans' faith in the efficacy of research and in a science-based social intervention.** These institutions would harness the expertise of the human sciences to stem what was perceived as the nation's social and biological decay..."_
+
+> _"On the materialistic and utilitarian level, the projects in the social and biological sciences were intended to foster favorable conditions for raising economic productivity and managing social stability—**making the world safe for private enterprise.**"_
+
+> _"It is clear that they regarded **medicine, education, and public health as part of a larger process of enculturation leading to social control and economic stability.**"_
+
+> _"...the eugenic movement acquired a strong resource base and a stable headquarters at Cold Spring Harbor for its large constituency... **the early promoters of eugenics expressed relatively little concern over medical disorders. Their principal targets were mental attributes: temperament, personality, and, above all, intelligence.**"_
+
+> _"Through education, public opinion, stimulation of specific research agenda, and the promotion of selected categories of knowledge and research, the Foundation played a key role in the creation of a hegemonic bloc; **the resources and prestige flowing into those fields relevant to problems of social control were instrumental in the formation of consensus between social and political elites...**"_
+
+> _"It was more evident than ever that **our knowledge greatly exceeded our capacity to control**, they noted under the atomic cloud of guilt."_
+
+> _"The committee also reiterated the Foundation's 1934 decision to place even greater emphasis on the application of knowledge; **to support research as an instrument of social engineering.**"_"
+
+> _"Gone also the rhetoric of social control. Ubiquitous in sociology discourse, **social control during the 1920s and 1930s had concrete technocratic meanings for the rational management of society.**"_
+
+> _"The changing politics of meaning demanded alternative rhetorics. The promotion of the study of human behavior—research and applications—was articulated during the late 1940s in terms of **'understanding' and 'international cooperation' through a language divested of the specific tropes that had characterized nearly half a century of corporate-academic discourse.**"_
+
+> _"Whatever the answers, he was unequivocal about one point: **the limits of the scientific control of nature.**"_
+
+> _"Inherent in our systematic efforts to promote the welfare of mankind there may be an assumption that .. . **by reason and science we may govern the future of unborn generations in ways that we know are right.**"_
+
+> _"The Foundation's program became more prominent internationally, but **its activity declined domestically in areas in which federal activity developed.**"_
+
+> _"Like astrophysics, the organization of biological research would consist of project teams working in close collaboration; **postwar molecular biology was being transformed into 'big science'—a multiunit research enterprise centered around sophisticated technology.**"_
 
 ---
 
