@@ -7,6 +7,16 @@
 // ==========================================================================
 // 1. GLOBAL CORE & FRAME LAYOUT OVERRIDES
 // ==========================================================================
+
+// Pins the mobile top sidebar layout container safely above all scrolling content
+.left.sidebar {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: var(--light); // Ensures content scrolling underneath doesn't bleed through
+  box-sizing: border-box;
+}
+
 .page[data-frame="default"] {
   #quartz-body {
     grid-gap: 2.5rem;
