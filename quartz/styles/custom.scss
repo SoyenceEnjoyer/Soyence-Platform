@@ -33,6 +33,22 @@
       // Layer isolation guard: Prevents overflowing slider elements from 
       // bleeding or stacking over the left and right sidebars.
       z-index: 1; 
+	  
+	  // Targets standard unordered and ordered lists within your articles
+      ul, ol {
+        margin: 1rem 0;
+        padding-left: 1.5rem;
+
+        // Tights up spacing between individual list items
+        li {
+          margin-bottom: 0.35rem; // Adjust this value (e.g., 0.2rem to 0.5rem) to control gap density
+          line-height: 1.5;      // Slightly tighter line height for multi-line items
+          
+          &:last-child {
+            margin-bottom: 0;    // Removes trailing gap from the final item
+          }
+        }
+      }
     }
   }
 }
@@ -300,13 +316,29 @@ li.recent-li {
     padding-top: 0.75rem !important;
     border-top: 1px dashed var(--border);
     gap: 0.35rem !important;
-    max-height: 70px;
-    overflow: hidden;
-    width: 100%;
+    max-height: 85px; // Gives enough vertical clearance for wrapped tags
+    overflow-y: auto; // Safely handles high-density tag overflows inside bounds
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    box-sizing: border-box;
+    padding-left: 0 !important;
+    list-style: none !important;
+
+    li {
+      margin: 0 !important;
+      display: flex !important;
+    }
     
     .tag-link {
       font-size: 0.75rem !important;
       padding: 0.15rem 0.5rem !important;
+      box-sizing: border-box;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
   }
 }
