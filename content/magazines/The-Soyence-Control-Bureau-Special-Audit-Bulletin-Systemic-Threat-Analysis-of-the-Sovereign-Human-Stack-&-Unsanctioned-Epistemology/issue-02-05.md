@@ -56,21 +56,19 @@ Our previous directives proved that the Managerial State operates by pruning hum
 
 However, our risk algorithms have detected a critical vulnerability in our enclosure strategy:
 
-<pre style="font-family: monospace, monospace; font-size: 0.85rem; line-height: 1.2; letter-spacing: 0px; background-color: var(--light); border: 1px solid var(--lightgray); color: var(--dark); padding: 1rem; border-radius: 5px; overflow-x: auto;">
+```
+    THE MANAGERIAL DIGITAL GRID                THE SOVEREIGN PARALLEL NODE
+     (Total Frictionless Interdependence)       (Local Autonomy & Structural Redundancy)
 
-   THE MANAGERIAL DIGITAL GRID                 THE SOVEREIGN PARALLEL NODE
-    (Total Frictionless Interdependence)        (Local Autonomy & Structural Redundancy)
-
-   ┌──────────────────────────────────┐        ┌────────────────────────────────────┐
-   │ Algorithmic Consensus & Feeds    │        │ Tier 1: Invariant Objective Law    │
-   │ Corporate Slop & Dopamine Loops  │        │ Tier 2: Deep Analog Literacy       │
-   │ Centralized HR & Global Mandates │  VS.   │ Tier 3: Sovereign Firewalls/FOSS   │
-   │ CBDCs, Debt, & Digital Fiat      │        │ Tier 4: Hard Assets & Self-Reliance│
-   │ Biological Dependency & Control  │        │ Tier 5: Generational Resilience    │
-   └──────────────────────────────────┘        └────────────────────────────────────┘
-        [Target: Total Enclosure]                   [Target: Complete Decoupling]
-
-</pre>
+    +----------------------------------+       +------------------------------------+
+    | Algorithmic Consensus & Feeds    |       | Tier 1: Invariant Objective Law    |
+    | Corporate Slop & Dopamine Loops  |       | Tier 2: Deep Analog Literacy       |
+    | Centralized HR & Global Mandates |  VS.  | Tier 3: Sovereign Firewalls/FOSS   |
+    | CBDCs, Debt, & Digital Fiat      |       | Tier 4: Hard Assets & Self-Reliance|
+    | Biological Dependency & Control  |       | Tier 5: Generational Resilience    |
+    +----------------------------------+       +------------------------------------+
+        [Target: Total Enclosure]                      [Target: Complete Decoupling]
+```
 
 Citizens have realized that political voting (Tier 3) or financial hedging (Tier 4) alone will fail if their foundational worldview (Tier 1) remains captured by our media apparatus! They are attempting to build parallel, sovereign nodes from the top down! 📈✨
 

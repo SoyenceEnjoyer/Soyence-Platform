@@ -56,19 +56,17 @@ Traditional economic theory falsely assumed that markets naturally select for co
 
 Central Command's human resource engineers realized that employees with an unyielding commitment to objective physical truth (Tier 1) are dangerous to a bureaucratic machine that runs on narrative control! Therefore, we executed a total Corporate Selection Inversion:
 
-<pre style="font-family: monospace, monospace; font-size: 0.85rem; line-height: 1.2; letter-spacing: 0px; background-color: var(--light); border: 1px solid var(--lightgray); color: var(--dark); padding: 1rem; border-radius: 5px; overflow-x: auto;">
-
-    TRADITIONAL ORGANIC SELECTION              MODERN MANAGERIAL INVERSION
+```
+TRADITIONAL ORGANIC SELECTION             MODERN MANAGERIAL INVERSION
  
-   ┌────────────────────────────┐             ┌───────────────────────────┐
-   │ Tier 1: Moral Conscience   │             │ Tier 5: Superficial DEI   │ (Primary Criteria)
-   │ Tier 2: Excellence/Mastery │             │ Tier 4: ESG/HR Metrics    │
-   │ Tier 3: Duty/Accountability│ ─────────>  │ Tier 3: Procedural Rules  │
-   │ Tier 4: Merit/Output       │             │ Tier 2: Corporate Slop    │
-   │ Tier 5: Heritage/Kinship   │             │ Tier 1: Zero Conscience   │ (Suppressed)
-   └────────────────────────────┘             └───────────────────────────┘
-
-</pre>
+    +----------------------------+             +---------------------------+
+    | Tier 1: Moral Conscience   |             | Tier 5: Superficial DEI   | (Primary Criteria)
+    | Tier 2: Excellence/Mastery |             | Tier 4: ESG/HR Metrics    |
+    | Tier 3: Duty/Accountability| ----------> | Tier 3: Procedural Rules  |
+    | Tier 4: Merit/Output       |             | Tier 2: Corporate Slop    |
+    | Tier 5: Heritage/Kinship   |             | Tier 1: Zero Conscience   | (Suppressed)
+    +----------------------------+             +---------------------------+
+```
 
 Look at how seamlessly our inverted algorithm filters the workplace:
 

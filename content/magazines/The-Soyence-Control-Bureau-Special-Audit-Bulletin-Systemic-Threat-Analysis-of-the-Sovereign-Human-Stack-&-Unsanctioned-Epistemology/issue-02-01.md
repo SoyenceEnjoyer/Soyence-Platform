@@ -79,20 +79,18 @@ Do you see how dangerous top-down information flow is?! If citizens possess an u
 
 Therefore, our global managerial institutions executed a necessary Pruning Procedure:
 
-<pre style="font-family: monospace, monospace; font-size: 0.85rem; line-height: 1.2; letter-spacing: 0px; background-color: var(--light); border: 1px solid var(--lightgray); color: var(--dark); padding: 1rem; border-radius: 5px; overflow-x: auto;">
-
+```
 [The Managerial Reduction]
-  [ YOUR HOLISTIC STACK ]          [ THE MANAGERIAL REDUCTION ]
+  [ YOUR HOLISTIC STACK ]         [ THE MANAGERIAL REDUCTION ]
 
-    1. CREED   ───────────────> RECLASSIFIED (Labelled "Private/Conspiracy")
-    2. CULTURE ───────────────> FLATTENED (Replaced by Corporate Consumer Slop)
-  ┌───────────────────────────┐
-  │ 3. POLITICS (Systems)     │ <─── THE PERMITTED OPERATIONAL ZONE
-  │ 4. ECONOMY (Markets)      │      (Frame everything as a sterile,
-  └───────────────────────────┘      accidental metric)
-    5. LINEAGE ───────────────> SUPPRESSED (Labelled "Taboo/Interchangeable")
-
-</pre>
+    1. CREED   ---------------> RECLASSIFIED (Labelled "Private/Conspiracy")
+    2. CULTURE ---------------> FLATTENED (Replaced by Corporate Consumer Slop)
+  +---------------------------+
+  | 3. POLITICS (Systems)     | <--- THE PERMITTED OPERATIONAL ZONE
+  | 4. ECONOMY (Markets)      |      (Frame everything as a sterile,
+  +---------------------------+      accidental metric)
+    5. LINEAGE ---------------> SUPPRESSED (Labelled "Taboo/Interchangeable")
+```
 
 By reclassifying Tier 1 as "subjective conspiracy theories" and Tier 5 as "dangerous taboos," we compress human existence down strictly to Tiers 3 & 4. You are now an interchangeable economic unit ($U_e$) optimized to consume standardized corporate products and generate real-time compliance metrics! Isn't that fantastic?! 📈✨
 

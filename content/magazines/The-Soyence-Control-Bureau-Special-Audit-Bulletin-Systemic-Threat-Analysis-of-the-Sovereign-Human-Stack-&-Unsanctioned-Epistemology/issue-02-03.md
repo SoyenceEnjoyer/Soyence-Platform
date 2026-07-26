@@ -54,27 +54,24 @@ To calibrate your institutional awareness, Central Command has updated our 110% 
 
 Mainstream political theater relies on the illusion that these factions are engaged in a death match. In reality, while they scream at each other on televised news feeds over superficial culture-war bait, they maintain an absolute, unified vested interest in liquidating the Old World Order!
 
-<pre style="font-family: monospace, monospace; font-size: 0.85rem; line-height: 1.2; letter-spacing: 0px; background-color: var(--light); border: 1px solid var(--lightgray); color: var(--dark); padding: 1rem; border-radius: 5px; overflow-x: auto;">
-
-    ┌──────────────────────────────────────────────────────────────┐
-    │                 TECHNOCRATIC MANAGERIAL CORE                 │
-    │   (Bureaucratic Architects: Centralized AI Grid & Rules)     │
-    └──────────────────────────────┬───────────────────────────────┘
-                                   │
-      ┌────────────────────────────┼────────────────────────────┐
-      ▼                            ▼                            ▼
-┌──────────────┐             ┌──────────────┐             ┌──────────────┐
-│  PROGRESSIVE │             │  TECHNO-     │             │ CONTRARY     │
-│  LEFT        │             │  CAPITALIST  │             │ RELIGIOUS    │
-│  FOOTSOLDIERS│             │  ENGINE      │             │ FLANKS       │
-└──────┬───────┘             └──────┬───────┘             └──────┬───────┘
-       │                            │                            │
-       ▼                            ▼                            ▼
+```
+     +-------------------------------------------------------------+
+     |                 TECHNOCRATIC MANAGERIAL CORE                |
+     |   (Bureaucratic Architects: Centralized AI Grid & Rules)    |
+     +------------------------------+------------------------------+
+                                    |               
+       +----------------------------+----------------------------+
+       v                            v                            v
++--------------+             +--------------+             +--------------+
+|  PROGRESSIVE |             |  TECHNO-     |             | CONTRARY     |
+|  LEFT        |             |  CAPITALIST  |             | RELIGIOUS    |
+|  FOOTSOLDIERS|             |  ENGINE      |             | FLANKS       |
++------+-------+             +------+-------+             +------+-------+
+       |                            |                            |
+       v                            v                            v
 Tears down Tiers 2 & 5       Tears down Tiers 3 & 4       Harasses & demoralizes
 (Culture & Lineage)          (Economy & Sovereignty)      legacy traditionalists
-[DIAGRAM END]
-
-</pre>
+```
 
 Look at how neatly their historical motives align to achieve total civilizational liquidation:
 
@@ -106,20 +103,23 @@ They are all temporarily working in total, terrifying harmony to smash the final
 
 To ensure citizens stay trapped inside the permitted political matrix, the Technocratic Core routes all conflict through a managed loop:
 
-<pre style="font-family: monospace, monospace; font-size: 0.85rem; line-height: 1.2; letter-spacing: 0px; background-color: var(--light); border: 1px solid var(--lightgray); color: var(--dark); padding: 1rem; border-radius: 5px; overflow-x: auto;">
-
-                 [ THESIS ]                               [ ANTITHESIS ]
-            Corporate Globalism                      Managed Cultural Chaos
-      (Market Control & Open Borders)           (Subversion & Identity Friction)
-                     │                                        │
-                     └───────────────────┬────────────────────┘
-                                         │
-                                         ▼
-                                  [ SYNTHESIS ]
-                            Technocratic Enclosure
-            ("Data-driven" Digital ID, CBDCs, & Bio-Surveillance)
-
-</pre>
+```
+      +------------------------+                        +------------------------+
+      |       [ THESIS ]       |                        |     [ ANTITHESIS ]     |
+      |   Corporate Globalism  |                        | Managed Cultural Chaos |
+      +------------------------+                        +------------------------+
+                   |                                                 |
+                   +------------------------+------------------------+
+                                            |
+                                            v
+                               +-------------------------+
+                               |      [ SYNTHESIS ]      |
+                               |  Technocratic Enclosure |
+                               +-------------------------+
+                                            |
+                                            v
+                         ("Data-driven" Digital ID, CBDCs, & Bio-Surveillance
+```
 
 * **Thesis (Corporate Globalism):** Expands market control and strips away national sovereignty.
 * **Antithesis (Managed Reaction / Cultural Chaos):** Weaponizes progressive subversion and artificial identity friction to destabilize social trust.
