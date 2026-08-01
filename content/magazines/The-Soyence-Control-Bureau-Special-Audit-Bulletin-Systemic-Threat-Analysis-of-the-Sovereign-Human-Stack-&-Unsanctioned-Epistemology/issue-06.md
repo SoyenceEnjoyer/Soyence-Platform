@@ -1,5 +1,5 @@
 ---
-title: '【Directive 06】 The Ultimate Solution — Why Eastern Orthodoxy & The Logos Engine Trigger Absolute System Implosion!'
+title: '【DIRECTIVE 06】 The Ultimate Solution — Why Eastern Orthodoxy & The Logos Engine Trigger Absolute System Implosion!'
 date: 2026-07-25
 tags:
   - essay
@@ -25,7 +25,7 @@ tags:
   - presuppositionalism
 ---
 
-<img src="/assets/issue-02-06.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
+<img src="/assets/mag-issue-02-06.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
 
 <div class="note-author-line">
   <img src="/assets/profile.png" alt="Soyence Enjoyer Avatar" class="note-avatar">
@@ -177,8 +177,6 @@ Notice how traditional Eastern Orthodox Christian praxis aligns item-for-item wi
 > _"What is perhaps most remarkable is that the Augustinian presuppositions we have sketched could come to dominate the thought of the West, while having virtually no influence in the East, and yet for **almost a thousand years neither side recognized what had happened**."_
 
 > _"If the ousia does not possess an energeia distinct from itself, it will be completely without actual subsistence and will be **only a concept in the mind**."_
-
-> _"For Augustine esse is not an act, but a condition – that of full and unqualified wholeness. He goes on to construct on this basis a tightly woven **metaphysics of the divine nature**."_
 
 > _"In place of the synergistic ideal and its accompanying metaphysics, Augustine impressed upon western thought a number of interlocking assumptions: that God is simple; that He is intrinsically intelligible; that **He can be known in only two ways, through created intermediaries or a direct intellectual apprehension of the divine essence**; and that the highest goal of human existence is such direct intellectual apprehension."_
 

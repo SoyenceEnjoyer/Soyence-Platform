@@ -25,7 +25,7 @@ tags:
   - presuppositionalism
 ---
 
-<img src="/assets/issue-02-03.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
+<img src="/assets/mag-issue-02-03.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
 
 <div class="note-author-line">
   <img src="/assets/profile.png" alt="Soyence Enjoyer Avatar" class="note-avatar">

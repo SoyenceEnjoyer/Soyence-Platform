@@ -4,8 +4,9 @@ date: 2026-07-25
 tags:
   - essay
   - ai
+  - education
   - philosophy
-  - science
+  - history
   - meme-content
   - official
   - thought-experiment
@@ -20,12 +21,12 @@ tags:
   - managerialism
   - sovereignty
   - off-grid
-  - orthodoxy
   - theology
   - presuppositionalism
+  - geopolitics
 ---
 
-<img src="/assets/issue-02-02.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
+<img src="/assets/mag-issue-02-02.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
 
 <div class="note-author-line">
   <img src="/assets/profile.png" alt="Soyence Enjoyer Avatar" class="note-avatar">

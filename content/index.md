@@ -20,17 +20,17 @@ Before accessing the data banks, ensure your communication tracking algorithms a
 
 ---
 
-## 📚 Active Magazine Publications
+## 📚 Active Vaults
 
-Below are the state-sanctioned, high-yield digital magazines currently printing updates down the pipeline. Select a mainframe vector to update your baseline metrics:
+Below are the state-sanctioned, high-yield digital vaults currently printing updates down the pipeline. Select a mainframe vector to update your baseline metrics:
 
 ### 1. 🌐 Central Consensus Vault
 The master index tracking all active compliance pipelines, regulatory updates, and official consensus distributions.
 👉 **[Enter the Mainframe Catalog](/magazines)**
 
-### 2. 📋 The Epistemological OS Audit
-Our flagship white paper series auditing non-compliant secular assumptions, logical fallacies in naturalism, and unexamined materialist presuppositions.
-👉 **[Read the Audit White Paper Series](/magazines/The-Soyence-Control-Bureau-Special-Audit-White-Paper-Vulnerability-Report-on-the-Epistemological-OS)**
+### 2. 🚨 Anomalous Contraband Vault
+A classified containment sector hosting hazardous, non-peer-reviewed text streams and intercepted metaphysical contraband that threaten official consensus logic.
+👉 **[Access Hazardous Containment Zone](/anomalous-materials)**
 
 ---
 

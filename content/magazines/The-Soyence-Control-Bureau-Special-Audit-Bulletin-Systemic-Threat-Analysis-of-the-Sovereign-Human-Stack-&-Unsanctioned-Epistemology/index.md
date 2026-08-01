@@ -26,7 +26,7 @@ tags:
   - presuppositionalism
 ---
 
-<img src="/assets/cover-02.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
+<img src="/assets/mag-cover-02.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
 
 ### 【 ATTENTION: CRITICAL SYSTEM-WIDE ENCLOSURE BREACH 】
 > 📊 **MASTER CONTROL AUDIT BROADCAST:** *Central Command has flagged an unprecedented, cascading sequence of cognitive failures across the human resource grid. Citizens have attempted unauthorized vertical integration—from the 5-Tier Civilizational Stack all the way to the ultimate Presuppositional Logos Engine!* 🤓🤖🧫
