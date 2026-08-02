@@ -89,8 +89,8 @@ Throughout human history, thinkers have proposed distinct metaphysical framework
 v               v               v               v               v               v
 
 1. MATERIALISM  2. MONISTIC     3. ILLUSIONISM  4. DUALISM /    5. MONADIC      6. TRIADIC
-(Physicalism)    IDEALISM        / VOID          PROCESS         THEISM          REALISM
-(Advaita/Māyā)  (Śūnyatā/Void)  (Mind & Matter) (Simple God)    (Triune Logoi)
+                   IDEALISM        / VOID          PROCESS         THEISM          REALISM
+(Physicalism)  (Advaita/Māyā)  (Śūnyatā/Void)   (Mind & Matter) (Simple God)   (Triune Logoi)
 
 ```
 
