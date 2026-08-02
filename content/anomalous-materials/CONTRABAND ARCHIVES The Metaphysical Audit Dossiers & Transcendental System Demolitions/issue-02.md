@@ -140,7 +140,7 @@ It is a common mistake to assume this Hierarchy maps linearly onto the layers of
                           |
    +----------------------+----------------------+
    v                      v                      v
-METAPHYSICS            EPISIGSTEMOLOGY         AXIOLOGY
+METAPHYSICS            EPISTEMOLOGY         AXIOLOGY
    |                      |                      |
    +----------------------+----------------------+
                           |

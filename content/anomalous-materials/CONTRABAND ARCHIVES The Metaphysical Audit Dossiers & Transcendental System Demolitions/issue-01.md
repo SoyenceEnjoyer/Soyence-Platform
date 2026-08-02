@@ -2,18 +2,18 @@
 title: "【OFFICIAL GUIDANCE DIRECTIVE 01】 Proof that 'Facts' are 100% Peer-Reviewed Metrics and Independent Thinking is a Non-Compliant Violation! 🤓🤖📊"
 date: 2026-08-02
 tags:
- - presuppositionalism
- - epistemology
- - laws-of-logic
- - induction 
- - philosophy
- - technocracy 
- - science 
- - materialism 
- - propaganda
- - satire 
- - parody 
- - meme-content
+  - presuppositionalism
+  - epistemology
+  - laws-of-logic
+  - induction 
+  - philosophy
+  - technocracy 
+  - science 
+  - materialism 
+  - propaganda
+  - satire 
+  - parody 
+  - meme-content
 ---
 
 <img src="/assets/ana-issue-01-01.jpg" alt="Article Banner" width="100%" style="border-radius: 8px; margin-bottom: 1.5rem; max-height: 400px; object-fit: cover;">
