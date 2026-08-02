@@ -94,8 +94,8 @@ Human thinkers have relied on six main frameworks to establish knowledge:
 +----------------+-----------------+----------+---------+------------------+------------------+
 v                v                 v                    v                  v                  v
 
-1. RATIONALISM   2. EMPIRICISM /   3. SKEPTICISM /      4. FOUNDATIONISM   5. COHERENT-       6. COVENANTALALISM
-                 POSITIVISM        ANTI-REALISM                            REVELATION
+1. RATIONALISM   2. EMPIRICISM /   3. SKEPTICISM /      4. FOUNDATIONISM   5. COHERENTISM     6. COVENANTAL
+                 POSITIVISM        ANTI-REALISM                                               REVELATION
 (Pure Logic)     (Senses Only)    (Nothing Known)       (Basic Axioms)     (Web of Ideas)     (Divine Self-Disclosure)
 
 ```
