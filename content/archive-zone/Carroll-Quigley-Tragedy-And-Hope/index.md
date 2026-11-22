@@ -1,7 +1,7 @@
 ---
 title: "🌐 THE MANAGERIAL MANIFESTO: Deconstructing Carroll Quigley’s Tragedy and Hope 🤓📊🥼"
 layout: folder
-date: 2026-10-03
+date: 2026-11-22
 tags:
   - Official
   - Essay
