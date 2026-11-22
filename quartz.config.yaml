@@ -222,7 +222,7 @@ plugins:
     options:
       title: "📋 LATEST HIGH-YIELD SYSTEM RELEASES"
       limit: 5
-      linkToMore: "magazines/"
+      linkToMore: "/"
       showTags: true
       hideTagPages: true     # <-- Automatically filters out technical tag indexes!
       hideFolderPages: true  # <-- Automatically filters out directory layout loops!

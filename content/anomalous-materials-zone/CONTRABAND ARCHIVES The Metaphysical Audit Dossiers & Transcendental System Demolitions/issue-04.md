@@ -191,7 +191,7 @@ In the 18th century, radical empiricist David Hume delivered a hammer blow to se
 1. If all knowledge comes from sense experience, we can only observe sequences of events (Event A happens, then Event B happens).
 2. We never observe the invisible force called "Causation"—we only see correlation.
 3. Therefore, an empiricist has no logical right to claim that Event A caused Event B, nor do they have a logical right to expect the future to resemble the past (The Problem of Induction).
-* Hume demonstrated that pure empiricism **destroys science, cause-and-effect, and human rationality**, reducing all knowledge to habitual expectation.
+Hume demonstrated that pure empiricism **destroys science, cause-and-effect, and human rationality**, reducing all knowledge to habitual expectation.
 
 ---
 

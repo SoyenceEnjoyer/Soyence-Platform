@@ -20,6 +20,22 @@
 .page[data-frame="default"] {
   #quartz-body {
     grid-gap: 2.5rem;
+	
+	// KaTeX Overflow & Wrapping Fix
+	.katex-display {
+		overflow-x: auto;
+		overflow-y: hidden;
+		max-width: 100%;
+		padding: 0.25rem 0;
+	}
+
+	.katex {
+		max-width: 100%;
+		overflow-x: auto;
+		overflow-y: hidden;
+		display: inline-block;
+		vertical-align: middle;
+	}
     
     // Core content center frame: Loosens layout margins for focus reading
     .center {
@@ -53,6 +69,34 @@
   }
 }
 
+.toc {
+  // Ensure the TOC container respects the sidebar height and flex layout
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 4rem); // Adjust padding offset as needed based on your header/layout
+  box-sizing: border-box;
+
+  // Target the list container holding the items
+  ul.toc-content {
+    overflow-y: auto !important;   // Enables vertical scrolling when content exceeds the height
+    max-height: 65vh;             // Caps the maximum height relative to the viewport
+    padding-right: 0.1rem;        // Prevents text from colliding with the scrollbar
+    scrollbar-width: thin;        // Clean, thin scrollbar for modern browsers
+    scrollbar-color: var(--gray) transparent;
+
+    // Custom WebKit scrollbar styling (optional, matches your recent-notes style)
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: var(--lightgray);
+      border-radius: 10px;
+      &:hover { 
+        background-color: var(--gray); 
+      }
+    }
+  }
+}
 
 // ==========================================================================
 // 2. COMPONENT META & IDENTITY TYPOGRAPHY

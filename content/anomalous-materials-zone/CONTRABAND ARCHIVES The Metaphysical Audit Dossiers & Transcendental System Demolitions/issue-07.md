@@ -81,13 +81,13 @@ When an opponent presents an argument, they are attempting to move down the hier
 ```
 
 +--------------------------------------------------------+
-| 1. TRANSCENDENTALS                                     |   <-------   The Ground of Possibility (The Soil)
+| 1. TRANSCENDENTALS                                     |   <-------   The Ground of Possibility
 +--------------------------------------------------------+
-| 2. FORMAL LOGIC                                        |   <-------   The Architectural Rules (The Trunk)
+| 2. FORMAL LOGIC                                        |   <-------   The Architectural Rules
 +--------------------------------------------------------+
-| 3. EMPIRICAL DATA                                      |   <-------   The Raw Material (The Dirt)
+| 3. EMPIRICAL DATA                                      |   <-------   The Raw Material
 +--------------------------------------------------------+
-| 4. TESTIMONIAL DATA                                    |   <-------   The Human Transmission (The Leaves)
+| 4. TESTIMONIAL DATA                                    |   <-------   The Human Transmission
 +--------------------------------------------------------+
 
 ```
@@ -140,7 +140,7 @@ To justify Premise 1, TAG relies on the formal logical method known as **Proof b
      +-------------------------+-------------------------+
      v                         v                         v
 [ PERMUTATION 1 ]         [ PERMUTATION 2 ]         [ PERMUTATION N... ]
-(Systemic Model A)        (Systemic Model B)        (Systemic Model C)
+(Systemic Model A)        (Systemic Model B)        (Systemic Model N)
      |                         |                         |
      v                         v                         v
 Internal Collapse         Internal Collapse         Internal Collapse
@@ -156,7 +156,7 @@ Internal Collapse         Internal Collapse         Internal Collapse
 
 ##### The Analytical Proof Chain
 1. **Permutational Exhaustion:** Metaphysical systems are not infinite in their structural types; they reduce to a finite set of foundational structural categories regarding being, knowledge, and ultimate reality.
-2. **Systemic Incoherence:** Replacing $Y$ with any contrary metaphysical framework ($A, B, \text{ or } C$) causes a structural breakdown that destroys the possibility of $X$ (logic, induction, knowledge).
+2. **Systemic Incoherence:** Replacing $Y$ with any contrary metaphysical framework ($A, B, \text{ ... } N$) causes a structural breakdown that destroys the possibility of $X$ (logic, induction, knowledge).
 3. **Impossibility of the Contrary:** If $X$ is undeniably operational, and every contrary permutation destroys $X$, then **$Y$ is formally established as the sole necessary precondition for reality.**
 
 ---

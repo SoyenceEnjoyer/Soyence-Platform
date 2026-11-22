@@ -26,11 +26,23 @@ Below are the state-sanctioned, high-yield digital vaults currently printing upd
 
 ### 1. 🌐 Central Consensus Vault
 The master index tracking all active compliance pipelines, regulatory updates, and official consensus distributions.
-👉 **[Enter the Mainframe Catalog](/magazines)**
+👉 **[Enter the Mainframe Catalog](/archive-zone)**
 
 ### 2. 🚨 Anomalous Contraband Vault
 A classified containment sector hosting hazardous, non-peer-reviewed text streams and intercepted metaphysical contraband that threaten official consensus logic.
-👉 **[Access Hazardous Containment Zone](/anomalous-materials)**
+👉 **[Access Hazardous Containment Zone](/anomalous-materials-zone)**
+
+### 3. 🧠 Cognitive Re-Calibration Matrix (Brain Recalibration Zone)
+Structured, highly organized data packets and pedagogical learning paths engineered to scrub non-compliant cognitive bias and align neural pathways.
+👉 **[Initiate Cognitive Re-Calibration](/recalibration-zone)**
+
+### 4. 📢 Anti-Citizen Audit Registry (Anti-Citizen Zone)
+Surveillance dossiers, public behavioral audits, and peer-reviewed refutations of rogue influencers, non-compliant creators, and unauthorized narrative nodes.
+👉 **[Inspect Anti-Citizen Dossiers](/anti-citizen-zone)**
+
+### 5. 🧪 Experimental Testing Grounds (Experimentation Zone)
+The official Soyence sandbox! A high-hazard dumping ground for spontaneous hypothesis testing, uncalibrated research notes, and raw intellectual fluid spills.
+👉 **[Enter the Experimental Sandbox](/experiment-zone)**
 
 ---
 

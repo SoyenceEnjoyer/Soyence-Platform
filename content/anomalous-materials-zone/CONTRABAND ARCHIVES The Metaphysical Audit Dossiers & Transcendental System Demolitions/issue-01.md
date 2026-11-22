@@ -173,7 +173,7 @@ Let's break down this stack from the bottom up to see why modern thinkers have i
   * *What it is:* Information passed from one person or document to another (historical accounts, court testimony, news reports, textbook claims).
   * *Its Dependency:* Testimonial evidence is **completely worthless** unless you can trust the empirical senses of the person giving the testimony, as well as their moral obligation not to lie.
 * **Layer 3: Empirical Evidence (The Raw Material)**
-  * *What it is:* Information gathered through the five physical senses (seeing, hearing, measuring, smelling, touching).
+  * *What it is:* Information gathered through the five physical senses (seeing, hearing, tasting, smelling, touching).
   * *The Fatal Limitation:* Empirical data is **localized, temporary, and chaotic**. You cannot "see" a universal law; you can only see a single instance of a phenomenon happening in front of your face right now.
   * *Its Dependency:* To turn empirical observations into "science," you must assume that your senses aren't lying to you (which **isn't an empirical claim**) and that the laws of physics will operate the same way tomorrow as they do today (Induction).
 * **Layer 2: Formal Logic (The Architectural Rules)**
